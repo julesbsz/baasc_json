@@ -38,11 +38,19 @@
         "creators": [
             {
                 "address": "4SQinc4Ay21R6nNrNkBYFYmdosPCDQoBz69oguRPW6rc",
-                "share": 99
+                "share": 70
             },
             {
                 "address": "9FUspd7K5J1xRQiMjriHvhTdjogoDbnNrQkA9UDGrTTL",
-                "share": 1
+                "share": 10
+            },
+            {
+                "address": "3d8Ei79rfJhXMtiS7hoqKCCCbatbdr8JBuftgdPXcgJD",
+                "share": 10
+            },
+            {
+                "address": "7C1pSUgdUoCBUc2fhkprY1Q64NjU2vfzNgdtKuuGNFAF",
+                "share": 10
             }
         ]
     }
